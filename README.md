@@ -8,6 +8,8 @@ I'm a Master's student in Computer Engineering with a keen interest in software 
 
 - **pytorch-msssim**: A fork of the official pytorch-msssim repository by VainF. This library is used to calculate a metric that consists of 3 components. The original implementation provides a reduced formula that calculates the metric, but in this fork, I calculate and return all the components separately to visualize their evolution and perform all the corresponding tests. Check out the repo [here](https://github.com/agr17/pytorch-msssim).
 
+- **Carggregator**: A second-hand car ads aggregator web application built using Scrapy, Elasticsearch, Docker, and Reactive Search (UI components for React, the front-end technology). The back-end code can be found [here](https://github.com/eliseobao/carggregator), and the front-end code can be found [here](https://github.com/eliseobao/carggregator-web).
+
 ### Contact
 
 Feel free to reach out to me via email or LinkedIn (links on my profile page) if you have any questions!
