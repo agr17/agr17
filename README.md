@@ -6,6 +6,8 @@ I'm a Master's student in Computer Engineering with a keen interest in software 
 
 - **Pygame Wordle**: A wordle game implemented in Pygame, with different design patterns applied for better code organization and documentation. Check out the repo [here](https://github.com/agr17/Pygame-Wordle).
 
+- **Electrodatos**: Interactive visualisation of electricity consumption data for the HackUDC hackathon. Developed in one and a half days in Python, completely open source and available in [public repo](https://github.com/agr17/hackudc-electrodatos) or [Devpost web](https://devpost.com/software/electrodatos).
+
 - **pytorch-msssim**: A fork of the official pytorch-msssim repository by VainF. This library is used to calculate a metric that consists of 3 components. The original implementation provides a reduced formula that calculates the metric, but in this fork, I calculate and return all the components separately to visualize their evolution and perform all the corresponding tests. Check out the repo [here](https://github.com/agr17/pytorch-msssim).
 
 - **Carggregator**: A second-hand car ads aggregator web application built using Scrapy, Elasticsearch, Docker, React and Reactive Search. The back-end code can be found [here](https://github.com/eliseobao/carggregator), and the front-end code can be found [here](https://github.com/eliseobao/carggregator-web).
