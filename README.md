@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a Master's student in Computer Engineering with a keen interest in software development and machine learning. Welcome to my GitHub profile, where you can find some of my personal projects and contributions.
+PhD Researcher at the University of A Coruña, specializing in Big Data platforms for astrophysical research. My work focuses on the distributed processing of large astronomical catalogues with PySpark and Dask, and on applying artificial intelligence techniques with Python (PyTorch, scikit-learn, ...). I also have prior industry experience with cloud data platforms (Databricks, Snowflake) and in web development with Java and JavaScript.
 
 ## Projects
 
